@@ -1,4 +1,4 @@
-# Project Title
+# Exploring Basic HTML
 1. Basic web page creation.
 1. HTML Element: HTML Paragraph Tag/Element.
 1. Text Formatting HTML Elements:
