@@ -15,5 +15,9 @@
     - HTML Heading Five Tag/Element.
     - HTML Heading Six Tag/Element.
 1. HTML List Intro with 'HTML Element: HTML List Item Element'.
+1. HTML Ordered List.
+1. HTML Unordered List.
+1. Nested List Concept.
+1. Block-level Container Element: HTML Division Element.
 1. Inline HTML Elements: b, strong, i, em, small.
 1. Block-level HTML Elements: p, h1-h6 (h1, h2, h3, h4, h5, h6).
