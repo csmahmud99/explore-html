@@ -42,3 +42,87 @@
         <li>Sarwar</li>
     </ol>
 </div>
+
+
+<!-- We can use list as nested form -->
+
+<div>
+    <!-- Nested Unordered List -->
+    <h2>5. Nested List: Nested Unordered List</h2>
+    <ul>
+        <li>Orange</li>
+        <li>Apple <!-- Output: Disc Bullet -->
+            <ul>
+                <li>Red Apple <!-- Output: Circle Bullet -->
+                    <ul>
+                        <li>Gala Apple <!-- Output: Square -->
+                            <ul>
+                                <li>Gala Apple - US</li> <!-- Output: Square -->
+                                <li>Gala Apple - NZ</li> <!-- Output: Square -->
+                            </ul>
+                        </li>
+                        <li>Fuji Apple</li>
+                    </ul>
+                </li>
+                <li>Green Apple</li>
+                <li>Golden Delicious</li>
+            </ul>
+        </li>
+        <li>Banana</li>
+    </ul>
+</div>
+
+
+<div>
+    <!-- Nested Ordered List -->
+    <h2>5. Nested List: Nested Ordered List</h2>
+    <ol>
+        <li>Fried Rice</li>
+        <li>Drinks
+            <ol>
+                <li>Mojo</li>
+                <li>Biriyani</li>
+                <li>Lemonade</li>
+            </ol>
+        </li>
+        <li>Dessert</li>
+    </ol>
+
+    <div>
+        <!-- Mixed Nested List -->
+        <h2>6. One kind of list under another kind of list</h2>
+        <p>
+            We can use Unordered List under an Ordered List and an Ordered List under an Unordered List, if it is necessary.
+        </p>
+    
+        <!-- Ordered List under Unordered List -->
+        <h2>Ordered under Unordered</h2>
+        <ul>
+            <li>Apple
+                <ol>
+                    <li>Gala Apple</li>
+                    <li>Fuji Apple</li>
+                </ol>
+            </li>
+            <li>Orange</li>
+        </ul>
+
+
+        <!-- Unordered List under Ordered List -->
+        <h2>Unordered under Ordered</h2>
+        <ol>
+            <li>Apple
+                <ul>
+                    <li>Gala Apple</li> <!-- Output: Circle -->
+                    <li>Fuji Apple</li>
+                </ul>
+            </li>
+            <li>Orange</li>
+        </ol>
+    </div>
+
+
+    <p>
+        7. Normally, an Ordered List will start with '1'. If we want another format, we have to declare type of that Ordered List with the help of 'type' attribute. The type of Unordered List also can be changed by using 'type' attribute.
+    </p>
+</div>
