@@ -18,6 +18,8 @@
 1. HTML Ordered List.
 1. HTML Unordered List.
 1. Nested List Concept.
-1. Block-level Container Element: HTML Division Element :: Indicated small part of a webpage.
-1. Inline HTML Elements: b, strong, i, em, small.
-1. Block-level HTML Elements: p, h1-h6 (h1, h2, h3, h4, h5, h6).
+1. Block-level Container Element: HTML Division Element :: Indicates small part of a webpage.
+1. HTML Button Element: We will use HTML Button Element in future with more broad areas.
+
+1. Inline HTML Elements: text-formatting (b, strong, i, em, small), button.
+1. Block-level HTML Elements: p, h1-h6 (h1, h2, h3, h4, h5, h6), list (li, ul, ol), div.
