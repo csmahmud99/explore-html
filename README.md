@@ -22,6 +22,8 @@
 1. HTML Button Element: We will use HTML Button Element in future with more broad areas.
 1. HTML Linebreak Element: Unpaired HTML Element.
 1. HTML Anchor/Hyperlink Element.
+    - External/Global/Absolute File Path.
+    - Internal/Local/Relative File Path.
 
 1. Inline HTML Elements: text-formatting (b, strong, i, em, small), button, br, a.
 1. Block-level HTML Elements: p, h1-h6 (h1, h2, h3, h4, h5, h6), list (li, ul, ol), div.
